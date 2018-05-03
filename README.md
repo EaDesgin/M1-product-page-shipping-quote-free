@@ -7,4 +7,4 @@ The button for the JavaScript popup will be added on the product page below the 
 
 On the pop up when you hit the quote button the area on the bottom will increase to accommodate the results.
 
-If you have any questions or bugs you can contact us at mdevel@eadesign.ro or on our site  www.eadesign.ro .
+If you have any questions or bugs you can contact us at mdevel@eadesign.ro or on our site  www.eadesign.ro.
